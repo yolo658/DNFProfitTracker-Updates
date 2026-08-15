@@ -1,15 +1,15 @@
 {
-  "version": "2.2.9",
+  "version": "2.2.10",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.9/DNFProfitTracker-Setup-2.2.9.exe",
-  "sha256": "B1F2D4E3241CDC823BCF28A8F3C00B3A7BE98C46C3B7D063D4EBFDC0177F22D4",
-  "size": 149143492,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.10/DNFProfitTracker-Setup-2.2.10.exe",
+  "sha256": "B0D01613BDE357B8C93F961F584DBDA4BB275B20B307A5803B2A4571804D0899",
+  "size": 149137651,
   "mandatory": false,
   "notes": [
-    "在线更新改为一次确认后自动完成",
-    "安装包校验通过后软件自动关闭并静默覆盖更新",
-    "更新过程不再显示安装向导",
-    "安装完成后自动重新打开地下城收益记录器",
-    "更新只替换程序文件，不会覆盖本机数据库"
+    "账号与设置新增联系作者区域",
+    "显示作者 QQ：2773382276",
+    "显示作者微信：2302357368",
+    "支持一键复制 QQ 或微信号码",
+    "保留一键静默更新和本机数据保护"
   ]
 }
