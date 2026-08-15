@@ -2,8 +2,8 @@
   "version": "2.2.12",
   "release_date": "2026-08-15",
   "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.12/DNFProfitTracker-Setup-2.2.12.exe",
-  "sha256": "64843920E4C005FDB4B1EEEB7206671BE646E7EF9B4498B6D132A2D9D773BD82",
-  "size": 149171967,
+  "sha256": "C8D94CDDAC3C6FEFED831319696FC6611C301CAE29308B658037F215EF09F6FF",
+  "size": 149151767,
   "mandatory": false,
   "notes": [
     "账号可设置总角色数，0 表示自动按已录入角色计算",
