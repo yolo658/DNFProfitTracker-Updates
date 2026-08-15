@@ -1,15 +1,17 @@
 {
-    "version":  "2.2.23",
+    "version":  "2.2.24",
     "release_date":  "2026-08-15",
-    "download_url":  "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.23/DNFProfitTracker-Setup-2.2.23.exe",
-    "sha256":  "897C32A2B90FE4F17748E3A61A3C984261B361252200037D9AF98D2972898BE4",
-    "size":  149234547,
+    "download_url":  "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.24/DNFProfitTracker-Setup-2.2.24.exe",
+    "sha256":  "9850AD113E43AFD168ABFD17672D788B1254F1B11D73683CC12674C15C69E45F",
+    "size":  149214430,
     "mandatory":  false,
     "notes":  [
-                  "记录收益页新增整页纵向滚动，窗口高度不足时不再压扁控件",
-                  "角色金币输入框保持正常高度，可以直接聚焦和输入",
-                  "960×620 窄窗口自动出现滚动条，可滚动查看全部内容",
-                  "保留拍卖行优惠券 3%/5% 手续费选项及满级显示优化",
+                  "司南统计、当前库存和手动流水新增修改与删除入口，账号上下联动",
+                  "历史记录未录角色的结束金币未手填时显示0，不继承前一天余额",
+                  "收益来源按日期、账号、角色逐日拆分，角色收益与未央收益优先定位最新数据日",
+                  "软件日期统一使用UTC+8北京时间，录入页默认当天，明细最新日期优先",
+                  "7881提现计算按具体账号或全部账号自动读取总金币，并显示金库金币",
+                  "收益统计移除近12个月卡片，使用自选区间替代",
                   "安装包不包含本机数据库，在线更新不会覆盖已有数据"
               ]
 }
