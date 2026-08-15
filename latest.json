@@ -1,15 +1,15 @@
 {
-  "version": "2.2.8",
+  "version": "2.2.9",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.8/DNFProfitTracker-Setup-2.2.8.exe",
-  "sha256": "0D9A1CA68C65151CE70E3E4E8A52477FB93D542C9955CC23B628F73E4DA4357E",
-  "size": 149219557,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.9/DNFProfitTracker-Setup-2.2.9.exe",
+  "sha256": "B1F2D4E3241CDC823BCF28A8F3C00B3A7BE98C46C3B7D063D4EBFDC0177F22D4",
+  "size": 149143492,
   "mandatory": false,
   "notes": [
-    "角色名称改为可输入的下拉框",
-    "已保存过的角色名称会自动出现在下拉列表中并自动去重",
-    "仍可直接输入新的角色名称，无需预先维护固定选项",
-    "角色编辑弹窗不再显示累计提升等级，只显示已满级或距离满级还差多少级",
-    "安装包不包含本机数据库，在线更新不会覆盖已有数据"
+    "在线更新改为一次确认后自动完成",
+    "安装包校验通过后软件自动关闭并静默覆盖更新",
+    "更新过程不再显示安装向导",
+    "安装完成后自动重新打开地下城收益记录器",
+    "更新只替换程序文件，不会覆盖本机数据库"
   ]
 }
