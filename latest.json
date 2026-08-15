@@ -1,15 +1,15 @@
 {
-  "version": "2.2.13",
+  "version": "2.2.14",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.13/DNFProfitTracker-Setup-2.2.13.exe",
-  "sha256": "3F9D06C49767BFEB203DE722889FEA623C966351B67319307805ED88E5375F05",
-  "size": 149165319,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.14/DNFProfitTracker-Setup-2.2.14.exe",
+  "sha256": "929EE78316A3E2F5D8D3B4884A3FBAEC1A79306F165D97F8D021FA0632F330BA",
+  "size": 149148097,
   "mandatory": false,
   "notes": [
-    "每日进度只统计已经录入并正常启用的角色",
-    "移除未录角色 +1 和撤销 -1，账号总角色数仅用于管理",
-    "金库余额、输入金额和流水金额统一显示为整数金币",
-    "首页保留账号金库总金币，并新增独立的当前账号金库",
-    "所有金币单位只在界面换算，不修改本机原有数据"
+    "角色余额为零时金库金额输入框不再锁死",
+    "输入框右侧实时显示万金币换算和当前可操作余额",
+    "整数金币保持精确，整数万不再显示无意义的 .0000",
+    "首页金库卡片同时显示换算万金币和精确整数金币",
+    "超出可用余额时仍会在提交时明确拦截"
   ]
 }
