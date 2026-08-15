@@ -1,16 +1,15 @@
 {
-  "version": "2.2.20",
+  "version": "2.2.21",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.20/DNFProfitTracker-Setup-2.2.20.exe",
-  "sha256": "5CD5F855919F27961889617D9ED2BFDE84B2FEF3B2045C5E65B23E051CA92F2C",
-  "size": 149182125,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.21/DNFProfitTracker-Setup-2.2.21.exe",
+  "sha256": "092231EAE39AC1D90836816731368AEB401A9BCB1C89E8ABFE01799422D88316",
+  "size": 149188830,
   "mandatory": false,
   "notes": [
-    "账号管理和软件设置拆分为两个独立导航",
-    "金库管理移除重复的出售比例、提现方式和预计到手计算",
-    "金库流水移除平台金额、手续费和预计到手列，专注金币流转",
-    "角色收益来源左右表格合并为角色、来源、金额、占比单表",
-    "未央收益改为六张核心卡片、售出分类表和整页滚动，不再压住金额",
+    "账号选择器统一显示已录角色数/账号总角色数，例如 2/32角色",
+    "已录角色数自动统计，账号总角色数可在账号管理中随时修改",
+    "账号总角色数设置为 0 时自动使用当前已录角色数，不写死固定数量",
+    "首页账号角色列和角色管理账号摘要同步使用已录/总数格式",
     "安装包不包含本机数据库，在线更新不会覆盖已有数据"
   ]
 }
