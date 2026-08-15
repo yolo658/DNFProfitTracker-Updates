@@ -1,17 +1,16 @@
 {
-  "version": "2.2.15",
+  "version": "2.2.16",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.15/DNFProfitTracker-Setup-2.2.15.exe",
-  "sha256": "B8A65DA3C384413B12FFA07B1F04A298A7F42690B50A71F3B8BCA50AC79BBBA0",
-  "size": 149195637,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.16/DNFProfitTracker-Setup-2.2.16.exe",
+  "sha256": "1576EA45BF99F4E13EB78D4EF5FD542C5BDE808729590D9AACCAC08C8C5E7D53",
+  "size": 149196387,
   "mandatory": false,
   "notes": [
-    "收益统计按当前账号隔离，并支持任意开始日期和结束日期回看",
-    "新增近12个月、累计总收益和所选区间统计",
-    "掉落只按卖出数量计入净利润，未卖物品不再提前计算收益",
-    "已卖掉落收入自动加入角色金币",
-    "收益存入金库改为显式勾选和二次确认",
-    "金库管理支持安全删除最后一条错误流水并恢复关联余额",
-    "全界面去除无意义的小数尾零"
+    "首页金币卡片改为万金币等于精确整数金币的单行显示",
+    "历史记录编辑时实时预览获得金币、角色剩余、总产出和净利润",
+    "修改存入金库金额后自动重算角色金币、账号金库及后续记录",
+    "把最后一条错误存入改为0时直接移除错误流水",
+    "删除历史收益记录后按日期重新计算该角色后续金币",
+    "当前示例可恢复为金库308.9743万、角色53.9423万、净利润46.8981万"
   ]
 }
