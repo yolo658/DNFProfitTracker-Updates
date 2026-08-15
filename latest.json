@@ -1,16 +1,16 @@
 {
-  "version": "2.2.18",
+  "version": "2.2.19",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.18/DNFProfitTracker-Setup-2.2.18.exe",
-  "sha256": "98B1F9FC59BA3E39167BDABD22BFCF8B522AB042CFA22B8E8CCF2784F699455B",
-  "size": 149182810,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.19/DNFProfitTracker-Setup-2.2.19.exe",
+  "sha256": "546D4CB8EE96F130F71F867DD0FC37521662EB2D97120974106884EA2F4EDB0B",
+  "size": 149180530,
   "mandatory": false,
   "notes": [
-    "首页与金库金额统一显示简洁万或亿，支持几十亿和几百亿金额",
-    "完整整数金币和单位换算改为鼠标悬停查看，不再挤占界面宽度",
-    "记录收益中的金币输入换算同步移动到输入框悬停提示",
-    "金库页余额改为三栏布局，账号、金库、角色和总金币不再挤在一行",
-    "首页与金库流水表使用横向滚动，金额列不再被强行压缩",
+    "新增收益分析导航，包含角色收益与未央收益两个页签",
+    "未央收益按历史记录保存的玩法统计，支持账号、角色和任意日期区间筛选",
+    "未央售出明细显示毛收入、自动5%手续费和扣费后的实际收入",
+    "首页新增今日未央收益，账号进度与角色收益表补充未央字段",
+    "收益统计保留时间区间汇总，角色累计与收益来源分析迁入收益分析",
     "安装包不包含本机数据库，在线更新不会覆盖已有数据"
   ]
 }
