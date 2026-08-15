@@ -1,15 +1,15 @@
 {
-  "version": "2.2.5",
+  "version": "2.2.6",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.5/DNFProfitTracker-Setup-2.2.5.exe",
-  "sha256": "2A7DAEF5A1A6F87C50513E9726982CE98CE1BCA782D178560632978D7BE219A3",
-  "size": 148639992,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.6/DNFProfitTracker-Setup-2.2.6.exe",
+  "sha256": "AC28D8CA4B3E42A267A8084A9981E90210039D1ECBF7EF7454B6EF5B961BEE05",
+  "size": 149138180,
   "mandatory": false,
   "notes": [
-    "角色新增可编辑职业字段，空职业统一显示为未设置",
-    "角色管理新增职业统计页签，跨账号同职业自动合并",
-    "新增职业数量、角色占比、等级进度、今日金币和净利润统计",
-    "旧数据库自动补充职业字段，不影响现有账号、角色和历史数据",
-    "安装包继续与本机数据库隔离，覆盖安装不会覆盖用户数据"
+    "新增启动后自动检查 GitHub 最新版本",
+    "新增账号与设置中的立即检查更新按钮",
+    "支持自动下载安装包并显示下载进度",
+    "安装前自动校验文件大小和 SHA-256",
+    "改为当前用户安装，后续更新无需管理员权限且不会覆盖数据库"
   ]
 }
