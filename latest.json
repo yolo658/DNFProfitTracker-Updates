@@ -1,16 +1,16 @@
 {
-  "version": "2.2.17",
+  "version": "2.2.18",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.17/DNFProfitTracker-Setup-2.2.17.exe",
-  "sha256": "84D2682C787DEFCDB0C83689CACEFDB9714C35F6DDBBDEB37980D43EA8B14822",
-  "size": 149181636,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.18/DNFProfitTracker-Setup-2.2.18.exe",
+  "sha256": "98B1F9FC59BA3E39167BDABD22BFCF8B522AB042CFA22B8E8CCF2784F699455B",
+  "size": 149182810,
   "mandatory": false,
   "notes": [
-    "首页增加账号下拉框，今日收益卡片和角色排行只显示当前账号",
-    "最终角色金币包含售出收入，避免售出物品被重复计入收益",
-    "刷图金币与售出收入分开显示，总产出按最终金币减开刷前金币计算",
-    "收益统计改为账号角色累计表，一次显示当前账号全部角色",
-    "账号角色累计表支持横向、纵向滚动和按净利润排序",
+    "首页与金库金额统一显示简洁万或亿，支持几十亿和几百亿金额",
+    "完整整数金币和单位换算改为鼠标悬停查看，不再挤占界面宽度",
+    "记录收益中的金币输入换算同步移动到输入框悬停提示",
+    "金库页余额改为三栏布局，账号、金库、角色和总金币不再挤在一行",
+    "首页与金库流水表使用横向滚动，金额列不再被强行压缩",
     "安装包不包含本机数据库，在线更新不会覆盖已有数据"
   ]
 }
