@@ -1,15 +1,15 @@
 {
-  "version": "2.2.12",
+  "version": "2.2.13",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.12/DNFProfitTracker-Setup-2.2.12.exe",
-  "sha256": "C8D94CDDAC3C6FEFED831319696FC6611C301CAE29308B658037F215EF09F6FF",
-  "size": 149151767,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.13/DNFProfitTracker-Setup-2.2.13.exe",
+  "sha256": "3F9D06C49767BFEB203DE722889FEA623C966351B67319307805ED88E5375F05",
+  "size": 149165319,
   "mandatory": false,
   "notes": [
-    "账号可设置总角色数，0 表示自动按已录入角色计算",
-    "账号选择项统一显示总角色数和已录入角色数",
-    "角色管理支持未录入角色每日已刷 +1 和撤销 -1",
-    "每日补记按日期独立保存，可回看历史日期",
-    "在线更新不会覆盖本机账号、角色和收益数据"
+    "每日进度只统计已经录入并正常启用的角色",
+    "移除未录角色 +1 和撤销 -1，账号总角色数仅用于管理",
+    "金库余额、输入金额和流水金额统一显示为整数金币",
+    "首页保留账号金库总金币，并新增独立的当前账号金库",
+    "所有金币单位只在界面换算，不修改本机原有数据"
   ]
 }
