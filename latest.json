@@ -1,16 +1,15 @@
 {
-    "size":  149251990,
-    "version":  "2.2.22",
-    "notes":  [
-                  "记录收益页角色金币改为左右两栏，不再横向挤压",
-                  "添加掉落按钮保留独立宽度，售出计算不会覆盖按钮",
-                  "新增拍卖行优惠券选项：无优惠券手续费 5%，有优惠券手续费 3%",
-                  "记录收益页移除金币比例输入，自动读取软件设置中的全局比例",
-                  "满级角色不再显示目标未设置，未满级角色继续显示目标信息",
-                  "安装包不包含本机数据库，在线更新不会覆盖已有数据"
-              ],
-    "sha256":  "D15DA9BD7773E0B55F5E4504CA0FEC2983D3A7E379D853464A4DE832F9C97BDB",
+    "version":  "2.2.23",
+    "release_date":  "2026-08-15",
+    "download_url":  "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.23/DNFProfitTracker-Setup-2.2.23.exe",
+    "sha256":  "897C32A2B90FE4F17748E3A61A3C984261B361252200037D9AF98D2972898BE4",
+    "size":  149234547,
     "mandatory":  false,
-    "download_url":  "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.22/DNFProfitTracker-Setup-2.2.22.exe",
-    "release_date":  "2026-08-15"
+    "notes":  [
+                  "记录收益页新增整页纵向滚动，窗口高度不足时不再压扁控件",
+                  "角色金币输入框保持正常高度，可以直接聚焦和输入",
+                  "960×620 窄窗口自动出现滚动条，可滚动查看全部内容",
+                  "保留拍卖行优惠券 3%/5% 手续费选项及满级显示优化",
+                  "安装包不包含本机数据库，在线更新不会覆盖已有数据"
+              ]
 }
