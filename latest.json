@@ -1,15 +1,15 @@
 {
-  "version": "2.2.10",
+  "version": "2.2.11",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.10/DNFProfitTracker-Setup-2.2.10.exe",
-  "sha256": "B0D01613BDE357B8C93F961F584DBDA4BB275B20B307A5803B2A4571804D0899",
-  "size": 149137651,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.11/DNFProfitTracker-Setup-2.2.11.exe",
+  "sha256": "CA17EA96A2F7C3C15A240552D0973F772D57DFEF51C3A47158C40EA4FB8A9E8C",
+  "size": 149158027,
   "mandatory": false,
   "notes": [
-    "账号与设置新增联系作者区域",
-    "显示作者 QQ：2773382276",
-    "显示作者微信：2302357368",
-    "支持一键复制 QQ 或微信号码",
-    "保留一键静默更新和本机数据保护"
+    "角色新增名望字段，未填写时显示未设置",
+    "角色列表默认按启用状态和名望从高到低排列",
+    "角色名称下方直接显示当前名望",
+    "角色列表由 13 列整理为 8 个组合列，窄窗口不再横向截断",
+    "完整角色数据可通过悬停提示查看，原有数据不会丢失"
   ]
 }
