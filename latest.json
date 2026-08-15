@@ -1,15 +1,15 @@
 {
-  "version": "2.2.6",
+  "version": "2.2.7",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.6/DNFProfitTracker-Setup-2.2.6.exe",
-  "sha256": "AC28D8CA4B3E42A267A8084A9981E90210039D1ECBF7EF7454B6EF5B961BEE05",
-  "size": 149138180,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.7/DNFProfitTracker-Setup-2.2.7.exe",
+  "sha256": "F6F0845F8833098D1563FED894BBE061FEFEDE9D0B96E711FE152056BA44303E",
+  "size": 149145601,
   "mandatory": false,
   "notes": [
-    "新增启动后自动检查 GitHub 最新版本",
-    "新增账号与设置中的立即检查更新按钮",
-    "支持自动下载安装包并显示下载进度",
-    "安装前自动校验文件大小和 SHA-256",
-    "改为当前用户安装，后续更新无需管理员权限且不会覆盖数据库"
+    "新增可配置的角色满级等级，默认 115 级",
+    "角色管理改为满级与未满级统计，不再显示累计提升等级",
+    "新增角色主要用途、用途筛选和用途统计",
+    "收益记录自动保存当时的角色玩法，后续修改角色用途不会影响历史记录",
+    "安装包不包含本机数据库，在线更新不会覆盖已有数据"
   ]
 }
