@@ -1,15 +1,17 @@
 {
-  "version": "2.2.14",
+  "version": "2.2.15",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.14/DNFProfitTracker-Setup-2.2.14.exe",
-  "sha256": "929EE78316A3E2F5D8D3B4884A3FBAEC1A79306F165D97F8D021FA0632F330BA",
-  "size": 149148097,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.15/DNFProfitTracker-Setup-2.2.15.exe",
+  "sha256": "B8A65DA3C384413B12FFA07B1F04A298A7F42690B50A71F3B8BCA50AC79BBBA0",
+  "size": 149195637,
   "mandatory": false,
   "notes": [
-    "角色余额为零时金库金额输入框不再锁死",
-    "输入框右侧实时显示万金币换算和当前可操作余额",
-    "整数金币保持精确，整数万不再显示无意义的 .0000",
-    "首页金库卡片同时显示换算万金币和精确整数金币",
-    "超出可用余额时仍会在提交时明确拦截"
+    "收益统计按当前账号隔离，并支持任意开始日期和结束日期回看",
+    "新增近12个月、累计总收益和所选区间统计",
+    "掉落只按卖出数量计入净利润，未卖物品不再提前计算收益",
+    "已卖掉落收入自动加入角色金币",
+    "收益存入金库改为显式勾选和二次确认",
+    "金库管理支持安全删除最后一条错误流水并恢复关联余额",
+    "全界面去除无意义的小数尾零"
   ]
 }
