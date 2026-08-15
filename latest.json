@@ -1,15 +1,15 @@
 {
-  "version": "2.2.7",
+  "version": "2.2.8",
   "release_date": "2026-08-15",
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.7/DNFProfitTracker-Setup-2.2.7.exe",
-  "sha256": "F6F0845F8833098D1563FED894BBE061FEFEDE9D0B96E711FE152056BA44303E",
-  "size": 149145601,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.8/DNFProfitTracker-Setup-2.2.8.exe",
+  "sha256": "0D9A1CA68C65151CE70E3E4E8A52477FB93D542C9955CC23B628F73E4DA4357E",
+  "size": 149219557,
   "mandatory": false,
   "notes": [
-    "新增可配置的角色满级等级，默认 115 级",
-    "角色管理改为满级与未满级统计，不再显示累计提升等级",
-    "新增角色主要用途、用途筛选和用途统计",
-    "收益记录自动保存当时的角色玩法，后续修改角色用途不会影响历史记录",
+    "角色名称改为可输入的下拉框",
+    "已保存过的角色名称会自动出现在下拉列表中并自动去重",
+    "仍可直接输入新的角色名称，无需预先维护固定选项",
+    "角色编辑弹窗不再显示累计提升等级，只显示已满级或距离满级还差多少级",
     "安装包不包含本机数据库，在线更新不会覆盖已有数据"
   ]
 }
