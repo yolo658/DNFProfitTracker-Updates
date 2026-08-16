@@ -1,14 +1,14 @@
 {
-  "size": 149211546,
-  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.26/DNFProfitTracker-Setup-2.2.26.exe",
-  "version": "2.2.26",
-  "mandatory": false,
-  "release_date": "2026-08-16",
-  "sha256": "275E0C87432A05C0904BEA20007C40BEAA8DA1BE5366A04EC7BF6E9DB7EA95C9",
   "notes": [
     "新增按日期统一保存金币比例，同一天记录可批量重算人民币收益",
     "人民币收益只按当天金币净利润换算，不包含账号金库金币",
     "历史记录支持修改日期并同步移动司南、金库流水，自动重算余额",
     "安装包不包含本机数据库，在线更新不会覆盖已有数据"
-  ]
+  ],
+  "release_date": "2026-08-16",
+  "size": 149200784,
+  "download_url": "https://github.com/yolo658/DNFProfitTracker-Updates/releases/download/v2.2.26/DNFProfitTracker-Setup-2.2.26.exe",
+  "mandatory": false,
+  "version": "2.2.26",
+  "sha256": "DA49DF61A59CE574A450949E6460D3770E34F88A74E9ACE95AD122C1CF69DBA4"
 }
